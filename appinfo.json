@@ -1,0 +1,61 @@
+{
+    "appKeys": {
+        "enable_dataLogging": 3,
+        "enable_reset": 1,
+        "inactive_minutes": 2,
+        "pedometer_sensitivity": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "wgpenney@gmail.com",
+    "longName": "WPHealthFit",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/28x28WPHealthFit.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU",
+                "type": "png"
+            },
+            {
+                "file": "images/sit.png",
+                "name": "IMAGE_SIT_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/jog.png",
+                "name": "IMAGE_JOG_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/walk.png",
+                "name": "IMAGE_WALK_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/inverted_sleep.png",
+                "name": "IMAGE_INVERTED_SLEEP_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/sleep.png",
+                "name": "IMAGE_SLEEP_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/steps.png",
+                "name": "IMAGE_STEPS_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "WPHealthFit",
+    "uuid": "374d83e5-2206-4410-a19d-99f3a3d10b07",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
